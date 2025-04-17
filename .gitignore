@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# SQLite database files (optional if you recreate it often)
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# Environment variables / secrets
+.env
+
+# Python test cache
+.pytest_cache/
+.tox/
+.coverage
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Static builds
+dist/
+build/
+*.egg-info/
+
+# Node (if you later add any JS tooling)
+node_modules/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+Thumbs.db
+ehthumbs.db
+
+# Compiled HTML/JS/CSS (if you auto-generate them)
+*.min.js
+*.min.css
+*.map
+
+# Optional: Ignore static/media/uploads if added later
+static/uploads/
+media/
