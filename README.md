@@ -43,7 +43,7 @@ It receives webhook requests, logs them to a database, displays them in a respon
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/webhook-logger.git
+git clone https://github.com/MehdiBenHamida/BasicWebhooksLogger.git
 cd webhook-logger
 
 # 2. Create a virtual environment
